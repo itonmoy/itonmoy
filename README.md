@@ -1,32 +1,9 @@
+<h1 align="center">Hi 👋, I'm Tonmoy Sarker</h1>
+<h3 align="center">Web Developer</h3>
 
-![Web Developer](https://scontent.fdac4-1.fna.fbcdn.net/v/t39.30808-6/231585706_1541572182885212_6393318470685313654_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFzbs-9OFdGaIppFnQvpQr1DNRVEdRsI3QM1FUR1GwjdFtb_DL6XbiFOYYYVF8RiwbTkyjvCWHTcnk4w6AdAv67&_nc_ohc=3lI9Zbyi-ogAX_wIi-a&tn=b_8u6JDhlMZCM3MM&_nc_zt=23&_nc_ht=scontent.fdac4-1.fna&oh=c957b6818ae0911e93a96d8bb267b619&oe=61A89653)
-### Hi there 👋, I'm Tonmoy Sarker
-#### Web Developer
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-I have always been passionate about web development, which led me to pursue a Bachelor of Computer Science degree. I am constantly seeking out new technologies and stay up-to-date on trends in the industry.
-
-Skills:   REACT / JAVASCRIPT/MONGODB/ EXPRESS/ HTML / CSS
-
-- 🔭 I’m currently working on MERN STACK Development 
-- 🌱 I’m currently learning REDUX  
-- 👯 I’m looking to collaborate on Github and Dev community  
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Contact me via email or facebook 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tonmoy-sarker/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tonmoy.sarker.9828)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=itonmoy)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itonmoy)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itonmoy&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=itonmoy)  
-
-![GitHub metrics](https://metrics.lecoq.io/itonmoy)  
-
-![Profile views](https://gpvc.arturio.dev/itonmoy)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
