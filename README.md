@@ -4,7 +4,6 @@ I have always been passionate about web development, which led me to pursue a Ba
 
 Skills:  REACT / JS / HTML / CSS/MONGODB/EXPRESS
 
-- 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
